@@ -1,0 +1,2 @@
+# RaspberryPIVoiceAssistant
+This is the code for a question answering voice assistant I made for an engineering project back in 10th grade! It shows my ability to apply programming with Python to interface with hardware and create a tangible product using it.
